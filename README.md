@@ -195,8 +195,6 @@ This project was developed as a **team project**.
 
 My primary contributions included:
 
-- Data preprocessing and cleaning
-- Exploratory Data Analysis (EDA)
 - Business problem analysis
 - Feature engineering
 - Machine Learning model development
