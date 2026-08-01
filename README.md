@@ -8,7 +8,7 @@ This project presents an end-to-end Machine Learning solution that forecasts inv
 
 ---
 ## Project Dashboard
-![Inventory Dashboard](images/dashboard image.png)
+![Inventory Dashboard](images/dashboard_image.png)
 
 ## Business Problem
 
