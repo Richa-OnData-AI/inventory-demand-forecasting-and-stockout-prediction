@@ -4,7 +4,7 @@ This folder contains the Jupyter notebook used for the Inventory Demand Forecast
 
 ## Notebook
 
-- `inventory_demand_forecasting.ipynb` –
+#### `inventory_demand_forecasting.ipynb` –
 - Covers data preprocessing
 - exploratory data analysis (EDA)
 - feature engineering
