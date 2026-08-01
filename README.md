@@ -8,7 +8,7 @@ This project presents an end-to-end Machine Learning solution that forecasts inv
 
 ---
 ## Project Dashboard
-![Inventory Dashboard](images/inventory_dashboard.png)
+![Inventory Dashboard](images/dashboard image.png)
 
 ## Business Problem
 
@@ -146,7 +146,7 @@ The model demonstrates strong predictive capability for inventory demand forecas
 
 ### Supplier Delivery Delay Analysis
 
-![](images/supplier_delivery_delay.png)
+![](images/supplier_delay_analysis.png)
 
 ---
 
@@ -168,15 +168,9 @@ The model demonstrates strong predictive capability for inventory demand forecas
 
 ---
 
-### Products at High Stock-out Risk
-
-![](images/top_stockout_risk.png)
-
----
-
 ### Recommended Reorder Quantity
 
-![](images/recommended_reorder_quantity.png)
+![](images/reorder_recommendation.png)
 
 ---
 
